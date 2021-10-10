@@ -5,7 +5,7 @@
 Este taller forma parte de las actividades del [Aula de Software Libre de la
 Universidad de Córdoba](https://www.uco.es/aulasoftwarelibre).
 
-El contenido del mismo es en parte de producción propia, en parte de otros manuales libres que pueden encontrarse en la sección de Referencias.
+El contenido del mismo es en parte de producción propia, en parte de otros manuales libres que pueden encontrarse en la sección de Referencias. El curso está basado y se corresponde con una ampliación de lo visto en [nuestro tutorial de VSCode](https://www.youtube.com/watch?v=GIsLgpjTq68&t=1848s) publicado en Youtube
 
 ## Contenido
 
@@ -14,6 +14,7 @@ El contenido del mismo es en parte de producción propia, en parte de otros manu
 - [Configuración del entorno](configuracion)
 - [Integración con git](git)
 - [Extensiones](extensiones)
+- [Referencias](referencias)
 
 ## Agradecimientos
 
