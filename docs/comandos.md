@@ -74,3 +74,11 @@ En esta sección veremos un listado de los comandos más relevantes de VSCode, l
 | Ctrl+Tab      | Moverse entre archivos abiertos     |
 | Ctrl+K Ctrl+S | Listado de comandos                 |
 | Ctrl+,        | Ajustes                             |
+
+## Crea tus propios comandos
+
+VSCode nos da la flexibilidad de poder crear y personalizar nuestros propios atajos de teclado, para que así la experencia de escribir código sea lo más cómoda posible. Para ello, tenemos que acceder a la configuración de shortcuts mediante el comando **Ctrl+K Ctrl+S**.
+
+![configuracion de comandos](images/comandos/configuracion-comandos.png)
+
+Dentro de esta ventana, podemos buscar el comando que queremos cambiar y establecer la combinación de teclas que mejor se adapte a nuestros gustos.
