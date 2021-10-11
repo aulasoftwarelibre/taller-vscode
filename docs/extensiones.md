@@ -1,1 +1,1 @@
-# Extensiones
+# Extensiones y configuración

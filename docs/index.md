@@ -11,9 +11,8 @@ El contenido del mismo es en parte de producción propia, en parte de otros manu
 
 - [Introducción](introduccion)
 - [Comandos y atajos](comandos)
-- [Configuración del entorno](configuracion)
+- [Extensiones y configuración](extensiones)
 - [Integración con git](git)
-- [Extensiones](extensiones)
 - [Referencias](referencias)
 
 ## Agradecimientos
