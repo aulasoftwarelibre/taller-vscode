@@ -24,6 +24,6 @@ Tenemos en la barra superior las opciones básicas con las que cuenta cualquier 
 
 ## Comenzando con el taller
 
-Para comenzar con el taller, abriremos un archivo donde podamos aplicar los diferentes comandos y atajos que se enseñarán en la primera sección del curso. Para ello, podemos abrir directamente un archivo con **Ctrl+O**, una carpeta con **Ctrl+K Ctrl+O**, o podemos crear el archivo con **Ctrl+N**.
+Para comenzar con el taller, abriremos un archivo donde podamos aplicar los diferentes comandos y atajos que se enseñarán en la primera sección del curso. Para ello, podemos abrir directamente un archivo con `Ctrl+O`, una carpeta con `Ctrl+K Ctrl+O`, o podemos crear el archivo con `Ctrl+N`.
 
 <!-- Para este taller, es recomendable descargar [esta carpeta](), para poder trabajar con los mismos ejemplos a la vez que se sigue la documentación. -->
