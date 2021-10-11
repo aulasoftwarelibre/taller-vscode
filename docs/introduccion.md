@@ -1,8 +1,10 @@
 # Introducción
 
-Visual Studio Code es un editor de código de software libre que fue desarrollado por Microsoft en 2015. Es multiplataforma y cuenta con numerosas funcionalidades que le colocan como uno de los editores más usados por programadores de todo el mundo. Entre algunas de sus características, encontramos soporte para el autocompletado de código, comandos que agilizan el desarrollo, integración con el control de versiones git, entre otras. Las veremos todas en este taller.
+Visual Studio Code es un editor de código de software libre que fue desarrollado por Microsoft en 2015. Es multiplataforma y cuenta con numerosas funcionalidades que le colocan como uno de los editores más usados por programadores de todo el mundo. Entre algunas de sus características, encontramos soporte para el autocompletado de código, comandos que agilizan el desarrollo, integración con el control de versiones git, entre otras.
 
-Además, cuenta con soporte para numerosos lenguajes, entre los cuales se encuentran los más usados a nivel mundial como JavaScript, C, C++, PHP, Python, etc. También posee una interfaz muy intuitiva, la cual nos ayuda a entender su funcionamiento y a que la experiencia de escribir código se haga lo más agradable posible.
+Además, cuenta con soporte para numerosos lenguajes, entre los cuales se encuentran los más usados a nivel mundial como JavaScript, C, C++, PHP, Python, etc. También posee una interfaz muy intuitiva, la cual nos ayuda a que la experiencia de escribir código se haga lo más agradable posible.
+
+En este taller, trataremos las funcionalidades más importantes de VSCode, intentando exprimir al máximo su potencial y configurando un entorno de desarrollo lo más óptimo posible.
 
 ## Descarga
 

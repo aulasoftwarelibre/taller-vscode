@@ -2,7 +2,6 @@ arrange:
   - index.md
   - introduccion.md
   - comandos.md
-  - configuracion.md
-  - git.md
   - extensiones.md
+  - git.md
   - referencias.md
